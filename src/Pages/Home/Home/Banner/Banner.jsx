@@ -2,7 +2,7 @@ import React from 'react';
 
 const Banner = () => {
     return (
-        <div className="carousel w-full h-[40rem]">
+        <div className="carousel w-full h-[40rem] mt-20">
         <div id="slide1" className="carousel-item relative w-full">
           <img src="https://media.licdn.com/dms/image/D4D12AQFkUKXahhNtVA/article-cover_image-shrink_720_1280/0/1693407093927?e=2147483647&v=beta&t=DYNceLcx84EGva2UJr6clVdlz_D6_DtaiVcGz1KFy-Y" className="w-full" />
           <div className="absolute flex justify-between transform -translate-y-1/2 left-5 right-5 top-1/2">
