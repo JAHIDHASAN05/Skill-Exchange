@@ -24,7 +24,7 @@ const Navbar = () => {
                         <li><a>Classes</a></li>
                     </ul>
                 </div>
-                <a className="btn btn-ghost text-4xl font-extrabold">Skill Exchange</a>
+                <a className="btn btn-ghost text-2xl  md:text-4xl font-extrabold">Skill Exchange</a>
             </div>
             <div className="navbar-center hidden md:flex  font-bold">
                 {navItems}
